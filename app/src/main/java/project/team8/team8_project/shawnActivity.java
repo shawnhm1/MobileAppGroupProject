@@ -11,6 +11,7 @@ public class shawnActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tylers);
+        setContentView(R.layout.activity_shawn);
+
     }
 }
